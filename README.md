@@ -23,4 +23,4 @@ Automatisation : Déploiement et durcissement des VMs via Ansible.
 
 🛠️ Stack Technique
 
-Ce dépôt est maintenu par
+Ce dépôt est maintenu par LOGEAIS Aurélien
